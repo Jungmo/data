@@ -467,7 +467,7 @@ plt.show()
 
 
 
-![png](con_mae.png.png)
+![png](con_mae.png)
 
 
 
